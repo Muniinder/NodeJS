@@ -1,0 +1,8 @@
+NODEJS
+1. Any JavaScript file which doesn't contain codes for browser interaction will execute successfully.
+2. GET(url,http,querystring,and custom modules) , POST (http,querystring,request.on data,chunks,stringify, comes in json and validate)
+3. Custom events
+4. Routing:
+Process Flow : Create Server-> HandleRequest(using request.url)->DecisionBasedOnUserClick (Route to login or signup by url parsing)->RouteHandler(display pages acc to request) -> Done
+5. File System: read,write a file, using fs module, 
+ streams, zlib used to compress, decompress, to write, read
